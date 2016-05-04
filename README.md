@@ -1,4 +1,3 @@
 # hello-world
-Testing out GitHub
-Just checking out how to make this thing work. 
-Editing the original readme file to include these notes. 
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon and find them far superior to Earth tacos. 
